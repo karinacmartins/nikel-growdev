@@ -1,0 +1,111 @@
+#login {
+    background: linear-gradient(120deg, #4c79d3 44.9%, #fff 45%) no-repeat fixed ;
+}
+#app {
+    background: linear-gradient(120deg, #fff 44.9%, #4c79d3 45%) no-repeat fixed ;
+}
+
+header {
+    border-bottom: 1px solid #bebcbc;
+    padding: 5px 100px;
+    background-color: #fff;
+}
+
+.color-primary {
+    color: #4e0070;
+}
+
+.color-secondary {
+    color: #4c79d3;
+}
+
+.icon-details {
+    font-size: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.text-login {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.coins {
+    position: absolute;
+    bottom: 100px;
+}
+
+.button-login {
+    border-radius: 10px;
+    background-color: #4e0070;
+    color: #ffffff;
+    padding: 5px;
+    width: 50%;
+    margin: 0 25%;
+}
+
+.button-default {
+    border-radius: 6px;
+    background-color: #4e0070;
+    color: #ffffff;
+    padding: 6px;
+}
+
+.button-float {
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    padding: 0 important!;
+    background-color: #4e0070;
+    border: 2px solid #4e0070;
+    color: #ffffff;
+    font-size: 35px;
+    position: fixed;
+    bottom: 1rem;
+    right: 2rem;
+}
+
+.button-float:hover {
+    background-color: #fff;
+    border: 2px solid #4c79d3;
+    color: #4c79d3;
+}
+
+
+.button-login:hover, .button-default:hover {
+    background-color: #4c79d3;
+}
+
+
+.link-default {
+    color: #4e0070;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.link-default:hover {
+    color: #4c79d3;
+} 
+
+.info {
+    background-color: #fff;
+    border-radius: 20px 20px 0 0;
+    padding: 20px 0 0;
+}
+
+.logout {
+    min-width: 5rem important!;
+}
+
+.menu {
+    margin-right: 20px;
+}
+
+#user-name {
+    font-size: 20px;
+    font-weight: 500;
+    color: #4e0070;
+    padding: 5px;
+}
+
