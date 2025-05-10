@@ -1,4 +1,8 @@
-# ![Logo do Nikel](/public/assets/images/nikel-small-logo.png) - Organize suas finanças de uma forma fácil.
+<h1>
+  <img src="public/assets/images/nikel-small-logo.png" alt="Logo do Nikel" width="120" style="vertical-align: middle; margin-right: 10px;">
+  Organize suas finanças de uma forma fácil.
+</h1>
+
 
 Seja bem-vindo ao **Nikel**! Este projeto tem como objetivo ajudar na organização financeira, permitindo que o usuário cadastre suas transações de entrada e saída, calcule o saldo e gerencie suas finanças de forma prática e eficiente.
 
